@@ -87,22 +87,5 @@ Ask Questions: On the "Crop Page", enter your agricultural question and your pin
 
 Get Answer: Click the "Get Answer" button to receive AI-generated advice.
 
-Contributing
-(Optional section - if you plan to allow contributions)
-If you'd like to contribute to KrishiMitra, please follow these steps:
-
-Fork the repository.
-
-Create a new branch (git checkout -b feature/your-feature-name).
-
-Make your changes and commit them (git commit -m 'Add new feature').
-
-Push to the branch (git push origin feature/your-feature-name).
-
-Open a Pull Request.
-
-License
-(Optional section - specify your project's license)
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Thank you for using KrishiMitra! We hope it helps farmers thrive.
