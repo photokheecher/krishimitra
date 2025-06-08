@@ -16,8 +16,8 @@ sys.path.insert(0, project_root)
 from config.config import GOOGLE_API_KEY, SERPAPI_API_KEY
 
 # Set environment variables for LangChain and other services
-os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
-os.environ["SERPAPI_API_KEY"] = SERPAPI_API_KEY
+# os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
+# os.environ["SERPAPI_API_KEY"] = SERPAPI_API_KEY
 
 # Set up the Streamlit page configuration
 st.set_page_config(
